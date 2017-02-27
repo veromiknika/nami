@@ -1,5 +1,5 @@
 # nami
 
 *description:* 
-rozkaz v úlohe 8., krok 4. znel nasledovne:
-_"V textovém editoru si otevřete soubor README.md a popište v něm, proč jste tento repozitář založili."_
+tento repozitar som vytvorila lebo rozkaz v úlohe 8., krok 1. znel nasledovne:
+_"Vytvořte si účet ve službě Github a vytvořte svůj první repozitář (při tvorbě si vyberte licenci a nechte vytvořit soubor README.md)."_
